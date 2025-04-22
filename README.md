@@ -8,9 +8,9 @@ Funcionalidades
 - **Lista de Gastos**: Visualize os gastos cadastrados em uma lista.
 - **Cálculo do Total**: Exibe o valor total acumulado dos gastos cadastrados.
 
-## Estrutura do Projeto
+Estrutura do Projeto
 
-Arquivo `index.html`
+Arquivo index.html
 - Contém a estrutura principal da aplicação:
   - **Header**: Título e descrição da aplicação.
   - **Formulário**: Campos para adicionar descrição, valor e categoria de um gasto.
@@ -18,28 +18,28 @@ Arquivo `index.html`
   - **Total**: Mostra o valor total dos gastos.
   - **Footer**: Informações de direitos autorais.
 
-Arquivo `main.css`
+Arquivo main.css
 - Responsável pela estilização da aplicação, incluindo layout, cores e responsividade.
 
-Arquivo `main.js`
+Arquivo main.js
 - Contém a lógica para adicionar gastos, atualizar a lista e calcular o total.
 
 Como Usar
 
-1. Abra o arquivo `index.html` em um navegador.
+1. Abra o arquivo index.html em um navegador.
 2. Preencha os campos do formulário com a descrição, valor e categoria do gasto.
 3. Clique no botão "Adicionar Gasto" para cadastrar o gasto.
 4. Visualize os gastos na lista e o total acumulado na seção "Total".
 
 Tecnologias Utilizadas
 
-- **HTML5**: Estrutura da aplicação.
-- **CSS3**: Estilização e layout.
-- **JavaScript**: Lógica para manipulação de dados e interação com o usuário.
+- HTML5: Estrutura da aplicação.
+- CSS3: Estilização e layout.
+- JavaScript: Lógica para manipulação de dados e interação com o usuário.
 
  Estrutura do Código
 
-- **Header**: Apresenta o título e a descrição da aplicação.
-- **Formulário**: Inclui campos de entrada para descrição, valor e categoria, além de um botão para adicionar gastos.
-- **Lista de Gastos**: Renderiza dinamicamente os itens cadastrados.
-- **Total**: Calcula e exibe o valor total dos gastos.
+- Header: Apresenta o título e a descrição do projeto.
+- Formulário: Inclui campos de entrada para descrição, valor e categoria, além de um botão para adicionar gastos.
+- Lista de Gastos: Renderiza os gastos cadastrados.
+- Total: Calcula e exibe o valor total dos gastos.
