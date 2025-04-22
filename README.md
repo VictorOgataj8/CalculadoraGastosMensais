@@ -10,7 +10,7 @@ Funcionalidades
 
 Estrutura do Projeto
 
-Arquivo `index.html`
+Arquivo index.html
 - Contém a estrutura principal da aplicação:
   - **Header**: Título e descrição da aplicação.
   - **Formulário**: Campos para adicionar descrição, valor e categoria de um gasto.
@@ -18,15 +18,15 @@ Arquivo `index.html`
   - **Total**: Mostra o valor total dos gastos.
   - **Footer**: Informações de direitos autorais.
 
-Arquivo `main.css`
+Arquivo main.css
 - Responsável pela estilização da aplicação, incluindo layout, cores e responsividade.
 
-Arquivo `main.js`
+Arquivo main.js
 - Contém a lógica para adicionar gastos, atualizar a lista e calcular o total.
 
 Como Usar
 
-1. Abra o arquivo `index.html` em um navegador.
+1. Abra o arquivo index.html em um navegador.
 2. Preencha os campos do formulário com a descrição, valor e categoria do gasto.
 3. Clique no botão "Adicionar Gasto" para cadastrar o gasto.
 4. Visualize os gastos na lista e o total acumulado na seção "Total".
