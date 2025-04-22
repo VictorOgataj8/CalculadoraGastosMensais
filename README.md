@@ -8,7 +8,7 @@ Funcionalidades
 - **Lista de Gastos**: Visualize os gastos cadastrados em uma lista.
 - **Cálculo do Total**: Exibe o valor total acumulado dos gastos cadastrados.
 
-## Estrutura do Projeto
+Estrutura do Projeto
 
 Arquivo `index.html`
 - Contém a estrutura principal da aplicação:
@@ -33,13 +33,13 @@ Como Usar
 
 Tecnologias Utilizadas
 
-- **HTML5**: Estrutura da aplicação.
-- **CSS3**: Estilização e layout.
-- **JavaScript**: Lógica para manipulação de dados e interação com o usuário.
+- HTML5: Estrutura da aplicação.
+- CSS3: Estilização e layout.
+- JavaScript: Lógica para manipulação de dados e interação com o usuário.
 
  Estrutura do Código
 
-- **Header**: Apresenta o título e a descrição da aplicação.
-- **Formulário**: Inclui campos de entrada para descrição, valor e categoria, além de um botão para adicionar gastos.
-- **Lista de Gastos**: Renderiza dinamicamente os itens cadastrados.
-- **Total**: Calcula e exibe o valor total dos gastos.
+- Header: Apresenta o título e a descrição do projeto.
+- Formulário: Inclui campos de entrada para descrição, valor e categoria, além de um botão para adicionar gastos.
+- Lista de Gastos: Renderiza os gastos cadastrados.
+- Total: Calcula e exibe o valor total dos gastos.
